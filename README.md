@@ -1,6 +1,6 @@
 # 🏄‍♂️ Saranheroic
 
-**`(Developer/`**
+Digital Craftsman (Developer/Filmmaker/Creator)
 
 Recent CS graduate from Anna University with a passion for technical design and development. Proficient in FrontEnd and Backend development. I bring a solid understanding of core concepts and a commitment to innovative problem-solving. Eager to contribute to projects.
    <p align="left">
