@@ -14,18 +14,17 @@ Recent CS graduate from Anna University with a passion for technical design and 
 - ⚡ Fun fact: I love to play competitive video games.
 ### Connect with me:
 
-[![Portfolio Light](https://path/to/globe-light.svg)](https://sarannportfolio.netlify.app/) 
-[![Portfolio Dark](https://path/to/globe-dark.svg)](https://sarannportfolio.netlify.app/)
-
-[![YouTube Light](https://path/to/youtube-light.svg)](https://www.youtube.com/@2kgamerplays258/videos) 
-[![YouTube Dark](https://path/to/youtube-dark.svg)](https://www.youtube.com/@2kgamerplays258/videos)
-
-[![Twitter Light](https://path/to/twitter-light.svg)](https://x.com/Saran2302) 
-[![Twitter Dark](https://path/to/twitter-dark.svg)](https://x.com/Saran2302)
-
-[![LinkedIn Light](https://path/to/linkedin-light.svg)](https://www.linkedin.com/in/sarannagarajan/) 
-[![LinkedIn Dark](https://path/to/linkedin-dark.svg)](https://www.linkedin.com/in/sarannagarajan/)
-
+[![website](./img/globe-light.svg)](https://sarannportfolio.netlify.app/-light-mode-only)
+[![website](./img/globe-dark.svg)](https://sarannportfolio.netlify.app/-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@2kgamerplays258/videos-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@2kgamerplays258/videos-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://x.com/Saran2302-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/Saran2302-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sarannagarajan/-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sarannagarajan/-dark-mode-only)
 
 
 &nbsp;&nbsp;
