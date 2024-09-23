@@ -3,14 +3,6 @@
 **`Digital Craftsman (Developer/Creator)`**
 
 Recent CS graduate from Anna University with a passion for technical design and development. Proficient in FrontEnd and Backend development. I bring a solid understanding of core concepts and a commitment to innovative problem-solving. Eager to contribute to projects.
-   <p align="left">
-      <a href="https://www.linkedin.com/in/sarannagarajan/">
-         <img alt="Linkedin profile" title="Linkedin" src="https://www.linkedin.com/in/sarannagarajan/"/></a> 
-      
-  <a href="https://github.com/Saranheroic">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/"/></a>
-      
-   </p>
 
 ---
 
