@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saran</h1>
-<h3 align="center">Recent CS graduate from Anna University with a passion for technical design and development. Proficient in FrontEnd and Backend development. I bring a solid understanding of core concepts and a commitment to innovative problem-solving. Eager to contribute to projects.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240923%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240923T082154Z&X-Amz-Expires=300&X-Amz-Signature=56037bea05a45fca6723e5e9da150534a2217dc56ded983b3529c5281790f925&X-Amz-SignedHeaders=host"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranheroic&label=Profile%20views&color=0e75b6&style=flat" alt="saranheroic" /> </p>
